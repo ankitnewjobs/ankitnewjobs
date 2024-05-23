@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps Engineer**
+- 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **AZURE**
+- 🌱 I’m currently learning **Microsoft AZURE**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source and full time opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs](https://github.com/ankitnewjobs)
 
