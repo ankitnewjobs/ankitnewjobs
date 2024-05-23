@@ -17,9 +17,17 @@
 
 - 📫 How to reach me **ankitranjanjobs@gmail.com**
 
+- ### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+[Azure AD PIM]: (https://medium.com/@ankitranjan0901/azure-ad-pim-6b443e859382)
+[Leveraging Microsoft Sentinel to improve your security]: (https://medium.com/@ankitranjan0901/leveraging-microsoft-sentinel-to-improve-your-security-8b44fd1c7564)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-ranjan-2b212682/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-ranjan-2b212682/" height="30" width="40" /></a>
+<a href="https://[medium.com/@rajani103](https://medium.com/@ankitranjan0901)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajani103" height="30" width="40" /></a>
+<a href="https://twitter.com/ankitranjan621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misalpav103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
