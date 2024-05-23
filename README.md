@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Azure AD PIM]-(https://medium.com/@ankitranjan0901/azure-ad-pim-6b443e859382)
 - [Leveraging Microsoft Sentinel to improve your security]-(https://medium.com/@ankitranjan0901/leveraging-microsoft-sentinel-to-improve-your-security-8b44fd1c7564)
-- [Azure Express Route](https://medium.com/@ankitranjan0901/expressroute-913bbc7088e3)
-<!-- BLOG-POST-LIST:END -->
+- [Azure Express Route]-(https://medium.com/@ankitranjan0901/expressroute-913bbc7088e3)
+- <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
