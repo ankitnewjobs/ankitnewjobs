@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/misalpavv?logo=twitter&style=for-the-badge" alt="misalpavv" /></a> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps Engineer**
