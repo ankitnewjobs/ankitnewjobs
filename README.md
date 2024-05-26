@@ -26,7 +26,7 @@
 - [Azure Express Route]-(https://medium.com/@ankitranjan0901/expressroute-913bbc7088e3)
 - [Azure Application Gateway]-(https://medium.com/@ankitranjan0901/azure-application-gateway-7dfa18929af5))
 - [Understanding Azure Entra ID]-(https://medium.com/@ankitranjan0901/understanding-azure-entra-id-61dccb5dd799))
-- <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
