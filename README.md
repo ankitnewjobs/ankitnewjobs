@@ -27,6 +27,7 @@
 - [Azure Application Gateway]-(https://medium.com/@ankitranjan0901/azure-application-gateway-7dfa18929af5)
 - [Understanding Azure Entra ID]-(https://medium.com/@ankitranjan0901/understanding-azure-entra-id-61dccb5dd799)
 - [Understanding the capabilities of Microsoft Entra ID]-(https://medium.com/@ankitranjan0901/understanding-the-capabilities-of-microsoft-entra-id-82d2fd71c098)
+- [Understanding Azure Data Solutions]-(https://medium.com/@ankitranjan0901/understanding-azure-data-solutions-f6046b4f16e9)
   <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
