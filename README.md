@@ -28,6 +28,7 @@
 - [Understanding Azure Entra ID]-(https://medium.com/@ankitranjan0901/understanding-azure-entra-id-61dccb5dd799)
 - [Understanding the capabilities of Microsoft Entra ID]-(https://medium.com/@ankitranjan0901/understanding-the-capabilities-of-microsoft-entra-id-82d2fd71c098)
 - [Understanding Azure Data Solutions]-(https://medium.com/@ankitranjan0901/understanding-azure-data-solutions-f6046b4f16e9)
+- [Understanding Azure Migration Options]-(https://medium.com/@ankitranjan0901/understanding-azure-migration-options-8cef3b9fec70)
   <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
