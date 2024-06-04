@@ -30,6 +30,7 @@
 - [Understanding Azure Data Solutions]-(https://medium.com/@ankitranjan0901/understanding-azure-data-solutions-f6046b4f16e9)
 - [Understanding Azure Migration Options]-(https://medium.com/@ankitranjan0901/understanding-azure-migration-options-8cef3b9fec70)
 - [Azure App Service/Web Apps]-(https://medium.com/@ankitranjan0901/azure-app-service-web-apps-f92dcb1c3e9d)
+- [Migrating Data]-(https://medium.com/@ankitranjan0901/migrating-data-ef3511c85ddd)
   <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
