@@ -22,15 +22,11 @@
   ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Azure AD PIM]-(https://medium.com/@ankitranjan0901/azure-ad-pim-6b443e859382)
-- [Leveraging Microsoft Sentinel to improve your security]-(https://medium.com/@ankitranjan0901/leveraging-microsoft-sentinel-to-improve-your-security-8b44fd1c7564)
 - [Azure Express Route]-(https://medium.com/@ankitranjan0901/expressroute-913bbc7088e3)
 - [Azure Application Gateway]-(https://medium.com/@ankitranjan0901/azure-application-gateway-7dfa18929af5)
 - [Understanding Azure Entra ID]-(https://medium.com/@ankitranjan0901/understanding-azure-entra-id-61dccb5dd799)
-- [Understanding the capabilities of Microsoft Entra ID]-(https://medium.com/@ankitranjan0901/understanding-the-capabilities-of-microsoft-entra-id-82d2fd71c098)
 - [Understanding Azure Data Solutions]-(https://medium.com/@ankitranjan0901/understanding-azure-data-solutions-f6046b4f16e9)
-- [Understanding Azure Migration Options]-(https://medium.com/@ankitranjan0901/understanding-azure-migration-options-8cef3b9fec70)
 - [Azure App Service/Web Apps]-(https://medium.com/@ankitranjan0901/azure-app-service-web-apps-f92dcb1c3e9d)
-- [Migrating Data]-(https://medium.com/@ankitranjan0901/migrating-data-ef3511c85ddd)
   <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
