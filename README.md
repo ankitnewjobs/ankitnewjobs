@@ -47,7 +47,7 @@
 
 
 ## 🌐 Socials:
-[![Substack](https://img.shields.io/badge/Substack-1769ff?logo=behance&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan05/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  
+[![Substack](https://img.shields.io/badge/Substack-1769ff?logo=Substack&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan05/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  
 
 
 ### 🔝 Top Contributed Repo
