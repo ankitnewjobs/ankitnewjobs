@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
+<h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>.
 <h3 align="center">Reducing user stress is a pleasure and my most excellent expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
