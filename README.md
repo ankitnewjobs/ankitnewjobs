@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs](https://github.com/ankitnewjobs)
 
-- 💬 Ask me about **DevOps, Azure and Cloud**
+- 💬 Ask me about **DevOps, Azure and Cloud.**
 
 - 📫 How to reach me **ankitranjanjobs@gmail.com**
 
