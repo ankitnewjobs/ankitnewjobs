@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
-- 🔭 I’m currently working as **DevOps Engineer**
+- 🔭 I’m currently working as **DevOps Engineer.**
 
 - 🌱 I’m currently learning **Microsoft AZURE**
 
