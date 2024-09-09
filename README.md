@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Microsoft AZURE**
 
-- 👯 I’m looking to collaborate on **Open Source and full time opportunities.**
+- 👯 I’m looking to collaborate on **Open Source and full-time opportunities.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs](https://github.com/ankitnewjobs)
 
