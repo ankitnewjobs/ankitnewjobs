@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **DevOps Engineer.**
 
-- 🌱 I’m currently learning **Microsoft AZURE**
+- 🌱 I’m currently learning **Microsoft AZURE.**
 
 - 👯 I’m looking to collaborate on **Open Source and full-time opportunities.**
 
