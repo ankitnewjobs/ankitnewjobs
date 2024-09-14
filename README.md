@@ -22,14 +22,12 @@ I'm actively seeking opportunities to collaborate on DevOps projects. I'm passio
 ##### 📫 Let's Connect: 
 I'm always open to connecting with fellow enthusiasts and learners.
 
-Feel free to reach out to me on LinkedIn, where we can exchange ideas, experiences, and insights.
+You can contact me on LinkedIn, where we can exchange ideas, experiences, and insights.
 https://www.linkedin.com/in/ankit-ranjan05/
 
-Looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
+I am looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
 
 For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com.
-
-![](https://komarev.com/ghpvc/?username=sahdevgrover&label=PROFILE+VIEWS)
 
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
