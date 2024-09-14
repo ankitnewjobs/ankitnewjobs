@@ -5,6 +5,44 @@
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan?logo=twitter&style=for-the-badge" alt="ankitranjan" /></a> </p>
 
+### 👋 Hey there, I'm Ankit!
+
+🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps. 
+Every day is a new opportunity for me to learn and grow as I love exploring the latest tools and technologies in the world of DevOps. I'm always excited to learn and try out new things!
+
+#### 🛠️ My Toolbox: AZURE CLOUD, Terraform, Jenkins, CI/CD, Python, Linux, Git/GitHub, Docker, Computer Networks
+
+🚀 Currently, I'm deeply engrossed in AZURE Cloud and Terraform.
+
+##### 📚 Sharing Knowledge: 
+I've embarked on the journey of creating the ***"Terraform Zero to Hero"***, ***"Azure Pratices Example"***. ***"Azure DevOps Project"***series. You can catch this series on both LinkedIn and GitHub, where I unravel the magic of Terraform step by step.
+
+##### 🤝 Collaboration in Mind: 
+I'm actively seeking opportunities to collaborate on DevOps projects. I'm passionate about teamwork and believe the best results come from shared knowledge and effort.
+
+##### 📫 Let's Connect: 
+I'm always open to connecting with fellow enthusiasts and learners.
+
+Feel free to reach out to me on LinkedIn, where we can exchange ideas, experiences, and insights.
+https://www.linkedin.com/in/ankit-ranjan05/
+
+Looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
+
+For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com.
+
+![](https://komarev.com/ghpvc/?username=sahdevgrover&label=PROFILE+VIEWS)
+
+![](https://hit.yhype.me/github/profile?user_id=132704247)
+
+![hashicorp-certified-terraform-associate-003 (1)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/2cf200f8-882a-4d59-b150-17c9edd5bf32)  ![aws-certified-cloud-practitioner (2)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/ddf0dc3a-518a-4a29-b77c-a13c9f9812ec)
+
+
+  
+
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
 - 🔭 I’m currently working as **DevOps Engineer.**
