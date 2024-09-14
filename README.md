@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan?logo=twitter&style=for-the-badge" alt="ankitranjan" /></a> </p>
 
-### 👋 Hey there, I'm Ankit!
-
 🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps. 
+
 Every day is a new opportunity for me to learn and grow as I love exploring the latest tools and technologies in the world of DevOps. I'm always excited to learn and try out new things!
 
 #### 🛠️ My Toolbox: AZURE CLOUD, Terraform, Jenkins, CI/CD, Python, Linux, Git/GitHub, Docker, Computer Networks
