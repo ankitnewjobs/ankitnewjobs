@@ -33,15 +33,6 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
-![hashicorp-certified-terraform-associate-003 (1)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/2cf200f8-882a-4d59-b150-17c9edd5bf32)  ![aws-certified-cloud-practitioner (2)](https://github.com/sahdevgrover/sahdevgrover/assets/132704247/ddf0dc3a-518a-4a29-b77c-a13c9f9812ec)
-
-
-  
-
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
 - 🔭 I’m currently working as **DevOps Engineer.**
