@@ -33,18 +33,6 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
-- 🔭 I’m currently working as **DevOps Engineer.**
-
-- 🌱 I’m currently learning **Microsoft AZURE.**
-
-- 👯 I’m looking to collaborate on **Open Source and full-time opportunities.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs](https://github.com/ankitnewjobs)
-
-- 💬 Ask me about **DevOps, Azure and Cloud.**
-
-- 📫 How to reach me **ankitranjanjobs@gmail.com**
-
   ### Blog posts
   
 <!-- BLOG-POST-LIST:START -->
