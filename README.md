@@ -14,7 +14,7 @@ Every day is a new opportunity for me to learn and grow as I love exploring the 
 🚀 Currently, I'm deeply engrossed in AZURE Cloud and Terraform.
 
 ##### 📚 Sharing Knowledge: 
-I've embarked on the journey of creating the ***"Terraform Zero to Hero"***, ***"Azure Pratices Example"***, ***"Azure DevOps Project"*** series. You can catch this series on both LinkedIn and GitHub, where I unravel the magic of Terraform step by step.
+I've embarked on the journey of creating the ***"Terraform Zero to Hero"***, ***"Azure Pratices Example"***, ***"Azure DevOps Project"*** series. You can catch this series on LinkedIn and GitHub, where I unravel the magic of Terraform step by step.
 
 ##### 🤝 Collaboration in Mind: 
 I'm actively seeking opportunities to collaborate on DevOps projects. I'm passionate about teamwork and believe the best results come from shared knowledge and effort.
@@ -22,10 +22,10 @@ I'm actively seeking opportunities to collaborate on DevOps projects. I'm passio
 ##### 📫 Let's Connect: 
 I'm always open to connecting with fellow enthusiasts and learners.
 
-You can contact me on LinkedIn, where we can exchange ideas, experiences, and insights.
+You can contact me on LinkedIn to exchange ideas, experiences, and insights.
 https://www.linkedin.com/in/ankit-ranjan05/
 
-I am looking forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
+I look forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
 
 For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com.
 
