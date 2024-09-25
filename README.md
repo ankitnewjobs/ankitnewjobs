@@ -8,7 +8,7 @@
 
 🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps. 
 
-Every day is a new opportunity for me to learn and grow as I love exploring the latest tools and technologies in the world of DevOps. I'm always excited to learn and try out new things!
+Every day is a new opportunity for me to learn and grow as I love exploring DevOps's latest tools and technologies. I'm always excited to learn and try out new things!
 
 #### 🛠️ My Toolbox: AZURE CLOUD, Terraform, Jenkins, CI/CD, Python, Linux, Git/GitHub, Docker, Computer Networks.
 
@@ -23,7 +23,7 @@ I'm actively seeking opportunities to collaborate on DevOps projects. I'm passio
 ##### 📫 Let's Connect: 
 I'm always open to connecting with fellow enthusiasts and learners.
 
-You can contact me on LinkedIn to exchange ideas, experiences, and insights.
+Feel free to contact me on LinkedIn to exchange ideas, experiences, and insights.
 https://www.linkedin.com/in/ankit-ranjan05/
 
 I look forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
