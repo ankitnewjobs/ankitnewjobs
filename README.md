@@ -8,7 +8,7 @@
 
 🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps. 
 
-Every day is a new opportunity for me to learn and grow as I love exploring DevOps's latest tools and technologies. I'm always excited to learn and try out new things!
+Every day is a new opportunity to learn and grow as I love exploring DevOps's latest tools and technologies. I'm always excited to learn and try out new things!
 
 #### 🛠️ My Toolbox: AZURE CLOUD, Terraform, Jenkins, CI/CD, Python, Linux, Git/GitHub, Docker, Computer Networks.
 
