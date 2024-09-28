@@ -23,7 +23,7 @@ I'm actively seeking opportunities to collaborate on DevOps projects. I'm passio
 ##### 📫 Let's Connect: 
 I'm always open to connecting with fellow enthusiasts and learners.
 
-Feel free to contact me on LinkedIn to exchange ideas, experiences, and insights.
+You can contact me on LinkedIn to exchange ideas, experiences, and insights.
 https://www.linkedin.com/in/ankit-ranjan05/
 
 I look forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
