@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan?logo=twitter&style=for-the-badge" alt="ankitranjan" /></a> </p>
 
-🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps. 
+🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps.
 
 Every day is a new opportunity to learn and grow as I love exploring DevOps's latest tools and technologies. I'm always excited to learn and try out new things!
 
