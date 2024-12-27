@@ -35,7 +35,18 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
-  ### Blog posts
+##  **My Certifications 🏅**
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/ankitranjan-8149/credentials/certification/azure-administrator?tab=credentials-tab)
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/earner/earned/badge/cd228e03-3a77-4a18-b8d2-6af1ddaae06e)
+
+- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ankit-ranjan05)
+- See all my Microsoft Certifications here 👉🏻 [Microsoft](https://learn.microsoft.com/en-us/users/ankitranjan-8149)
+
+<p align="left">
+  <img src="https://"C:\Users\Hp\Downloads\azure-administrator-associate.png"" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
+</p>
+### Blog posts
   
 <!-- BLOG-POST-LIST:START -->
 
