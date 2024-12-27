@@ -43,8 +43,8 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 - See all my Microsoft Certifications here 👉🏻 [Microsoft](https://learn.microsoft.com/en-us/users/ankitranjan-8149)
 
 <p align="left">
-  <img src="https://"C:\Users\Hp\Downloads\azure-administrator-associate.png"" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
+  <img src="https://"C:\Users\Hp\Downloads\azure-administrator-associate.png" width="125" height="125">
+  <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="125" height="125">
 </p>
 ### Blog posts
   
