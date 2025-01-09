@@ -80,6 +80,8 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 [![Substack](https://img.shields.io/badge/Substack-1769ff?logo=Substack&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan05/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  [![NewsLetter](https://img.shields.io/badge/NewsLetter-12100E?logo=NewsLetter&logoColor=white)](https://www.linkedin.com/newsletters/the-azure-guy-7197064229571424256/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ankitnewjobs&theme=merko)](https://git.io/streak-stats)
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ankitnewjobs&limit=5&theme=flat&combine_all_yearly_contributions=true)
