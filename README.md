@@ -26,7 +26,7 @@ https://www.linkedin.com/in/ankit-ranjan05/
 
 I look forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
 
-For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com.
+For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com
 
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
