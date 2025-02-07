@@ -15,9 +15,6 @@ Every day is a new opportunity to learn and grow as I love exploring DevOps's la
 
 🚀 Currently, I'm deeply engrossed in AZURE Cloud and Terraform.
 
-##### 📚 Sharing Knowledge: 
-I've embarked on the journey of creating the ***"Terraform Zero to Hero"***, ***"Azure Pratices Example"***, ***"Azure DevOps Project"*** series. You can catch this series on LinkedIn and GitHub, where I unravel the magic of these journeys step by step.
-
 ##### 🤝 Collaboration in Mind: 
 I'm actively seeking opportunities to collaborate on DevOps projects. I'm passionate about teamwork and believe the best results come from shared knowledge and effort.
 
