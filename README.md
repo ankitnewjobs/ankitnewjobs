@@ -34,6 +34,7 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 ##  **My Certifications 🏅**
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/ankitranjan-8149/credentials/certification/azure-administrator?tab=credentials-tab)
+  
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/earner/earned/badge/cd228e03-3a77-4a18-b8d2-6af1ddaae06e)
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ankit-ranjan05)
