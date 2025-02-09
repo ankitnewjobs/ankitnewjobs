@@ -42,7 +42,7 @@ For any further correspondence, please feel free to email me at ankitranjanjobs@
 
 <p align="left">
   <img src="https://images.credly.com/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png" width="125" height="125">
-  <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
 </p>
 
 ### Blog posts
