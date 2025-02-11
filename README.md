@@ -29,7 +29,6 @@
 - ⚡ Fun fact **I think I am Funny !**
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
 ##  **My Certifications 🏅**
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/ankitranjan-8149/credentials/certification/azure-administrator?tab=credentials-tab)
