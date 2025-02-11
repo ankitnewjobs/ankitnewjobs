@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbC41OElC0Cx5ybMGIwREAbY0_Y8lxtlXEWg&s)
 
 <h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
 <h3 align="center">A passionate DevOps Engineer Geek from India.</h3>
