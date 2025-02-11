@@ -20,7 +20,8 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ankit-ranjan05/recent-activity/all/](https://www.linkedin.com/in/ankit-ranjan05/recent-activity/all/)
 
-- 📝 I regularly write articles on [https://medium.com/@ankitranjan0901]_(https://medium.com/@ankitranjan0901)
+- ➡ I regularly write articles on Medium [https://medium.com/@ankitranjan0901](https://medium.com/@ankitranjan0901)
+  
 - 📫 How to reach me **ankitranjanjobs@gmail.com**
 
 - 📎 Microsoft learner profile at **https://learn.microsoft.com/en-us/users/ankitranjan-8149/**
