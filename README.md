@@ -1,33 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>.
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
 
-<h3 align="center">Reducing user stress is a pleasure and my most excellent expertise.</h3>
+<h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
+<h3 align="center">A passionate DevOps Engineer Geek from India.</h3>
+<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan?logo=twitter&style=for-the-badge" alt="ankitranjan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
-🎓 I'm a student and a passionate DevOps Engineer focusing on the exciting world of DevOps.
+<p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan6219?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
 
-Every day is a new opportunity to learn and grow as I love exploring DevOps's latest tools and technologies. I'm always excited to learn and try out new things!
+- 🔭 I’m currently working on **DevOps Engineer**
 
+- 🌱 I’m currently learning **Kubernetes and Hashicorp Vault**
 
-#### 🛠️ My Toolbox: AZURE CLOUD, Terraform, Jenkins, CI/CD, Python, Linux, Git/GitHub, Docker, Computer Networks.
+- 👯 I’m looking to collaborate on **Devops/MLops**
 
-🚀 Currently, I'm deeply engrossed in AZURE Cloud and Terraform.
+- 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs?tab=repositories](https://github.com/ankitnewjobs?tab=repositories)
 
-##### 🤝 Collaboration in Mind: 
-I'm actively seeking opportunities to collaborate on DevOps projects. I'm passionate about teamwork and believe the best results come from shared knowledge and effort.
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ankit-ranjan05/recent-activity/all/](https://www.linkedin.com/in/ankit-ranjan05/recent-activity/all/)
 
-##### 📫 Let's Connect: 
-I'm always open to connecting with fellow enthusiasts and learners.
+- 📫 How to reach me **ankitranjanjobs@gmail.com**
 
-You can contact me on LinkedIn to exchange ideas, experiences, and insights.
-https://www.linkedin.com/in/ankit-ranjan05/
+- 📎 Microsoft learner profile at **https://learn.microsoft.com/en-us/users/ankitranjan-8149/**
 
-I look forward to connecting with you and exploring the vast horizons of DevOps together! 🌟
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Rr0XDa0I_Mz2eoDvc2WzV8EKuTpbNRjx/view?usp=drive_link](https://drive.google.com/file/d/1Rr0XDa0I_Mz2eoDvc2WzV8EKuTpbNRjx/view?usp=drive_link)]
 
-For any further correspondence, please feel free to email me at ankitranjanjobs@gmail.com
-
+- ⚡ Fun fact **I think I am Funny !**
 ![](https://hit.yhype.me/github/profile?user_id=132704247)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
