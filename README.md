@@ -46,7 +46,7 @@
   <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
 </p>
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 [![Substack](https://img.shields.io/badge/Substack-1769ff?logo=Substack&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan05/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  [![NewsLetter](https://img.shields.io/badge/NewsLetter-12100E?logo=NewsLetter&logoColor=white)](https://www.linkedin.com/newsletters/the-azure-guy-7197064229571424256/)
 
