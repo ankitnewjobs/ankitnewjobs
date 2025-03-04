@@ -46,13 +46,6 @@
   <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
 </p>
 
-h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://https://www.linkedin.com/in/ankit-ranjan05?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-satpute/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
-<a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
-<a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
-</p>
 ## 🌐 Connect with me:
 
 [![Substack](https://img.shields.io/badge/Substack-1769ff?logo=Substack&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  [![NewsLetter](https://img.shields.io/badge/NewsLetter-12100E?logo=NewsLetter&logoColor=white)](https://www.linkedin.com/newsletters/the-azure-guy-7197064229571424256/)
