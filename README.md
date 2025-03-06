@@ -27,7 +27,7 @@
 
 - 📎 Microsoft learner profile at **https://learn.microsoft.com/en-us/users/ankitranjan-8149/**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1KRFxJU5LkqLQphrxDq72JZ3nEggkgCYR/view?usp=sharing](https://drive.google.com/drive/u/1/folders/1i5fIOLUt4j7VsfIicsbVnm962snQMwOs?usp=sharing)]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KRFxJU5LkqLQphrxDq72JZ3nEggkgCYR/view?usp=sharing](https://drive.google.com/drive/u/1/folders/1i5fIOLUt4j7VsfIicsbVnm962snQMwOs?usp=sharing)
 
 
 - ⚡ Fun fact **I think I am Funny !**
