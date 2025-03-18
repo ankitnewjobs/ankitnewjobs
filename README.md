@@ -1,5 +1,3 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibK9Sg6OGUDk_TcTJfrhAhkSsVD4gKknMnv2W2FuQbOwy3E39aCoFqFoRAwDuOFlLoNnOYh7Gmc2J6WML3f-LZG90MFqZvtLcL2YYqG4F_OBACnP0cH4jiG6EQ5WCNDo3CroMjhL1iyKt9l4waMPV_6Dx3_UaDyrk7zdP8X9n_7cpni8hYp-aDm6FI/s1600/I023_BlogBanner-01.png)
-
 ![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQHcrO3lJGZCrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1649486364632?e=1747872000&v=beta&t=YdyTUiCBhb0bbSOGOjlXnHz-h3qYqsg5sQsMLhtH12U)
 
 <h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
