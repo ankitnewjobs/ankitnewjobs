@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQHcrO3lJGZCrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1649486364632?e=1747872000&v=beta&t=YdyTUiCBhb0bbSOGOjlXnHz-h3qYqsg5sQsMLhtH12U)
 
 <h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>.
-<h3 align="center">A passionate Azure DevOps Engineer Geek from India.</h3>
+<h3 align="center">A passionate Azure DevOps Engineer Geek from India.</h3>.
 
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
