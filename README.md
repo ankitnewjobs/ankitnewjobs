@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan6219?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
 
-- 🔭 I’m currently working as **DevOps Engineer**
+- 🔭 I’m currently working as **DevOps Engineer**.
 
 - 🌱 I’m currently learning **Kubernetes and Hashicorp Vault**
 
