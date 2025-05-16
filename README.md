@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and Hashicorp Vault**
 
-- 👯 I’m looking to collaborate on **Devops/MLops**
+- 👯 I’m looking to collaborate on **Devops/MLops**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitnewjobs?tab=repositories](https://github.com/ankitnewjobs?tab=repositories)
 
