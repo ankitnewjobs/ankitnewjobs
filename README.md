@@ -47,6 +47,13 @@
   <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="125" height="125">
 </p>
 
+## Publications
+| No. | Title | Status |
+|:--:|:------|:-------|
+| 1 | **Ankit Ranjan**, Shubhankar Sinha, Anuranjana, Deepti Mehrotra. "Segregation of Speech and Music Signals for Aiding the Hearing Impaired." *Springer, Singapore*, Online ISBN 978-981-15-7486-3, pp. 96635–9664, 2021. [DOI](https://link.springer.com/chapter/10.1007/978-981-15-7486-3_57) | Published in *Lecture Notes in Electrical Engineering ((LNEE,volume 692))* |
+| 2 | Shubhankar Sinha, **Ankit Ranjan**, Anuranjana, Deepti Mehrotra. "White Noise Removal to Enhance Clarity of Sports Commentary: Proceedings of SoCTA 2017*. | *Research Gate*, pp. 629-638, 2019. [DOI](https://www.researchgate.net/publication/327348681_White_Noise_Removal_to_Enhance_Clarity_of_Sports_Commentary_Proceedings_of_SoCTA_2017) | Published in *In book: Soft Computing: Theories and Applications* |
+| 3 | **Ankit Ranjan**, Aditi Malviya, Abhishek Srivastava. "LAN SCAN: ERROR DETECTION & FAULT CORRECTION." *International Journal of Engineering Applied Sciences and Technology*, Vol. 2, Issue 5, ISSN No. 2455-2143, Pages 196-200, 2017. [DOI](https://www.ijeast.com/search.php?search=ankit%20ranjan) | Published in *International Journal of Engineering Applied Sciences and Technology, 2017* |
+
 ## 🌐 Connect with me:
 
 [![Substack](https://img.shields.io/badge/Substack-1769ff?logo=Substack&logoColor=white)](https://substack.com/@ankitnewjobs?utm_source=user-menu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit.ranjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ranjan05/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitranjan0901)  [![NewsLetter](https://img.shields.io/badge/NewsLetter-12100E?logo=NewsLetter&logoColor=white)](https://www.linkedin.com/newsletters/the-azure-guy-7197064229571424256/)
