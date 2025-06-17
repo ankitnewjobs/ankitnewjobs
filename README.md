@@ -1,4 +1,3 @@
-# Ankit Ranjan
 ![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQHcrO3lJGZCrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1649486364632?e=1747872000&v=beta&t=YdyTUiCBhb0bbSOGOjlXnHz-h3qYqsg5sQsMLhtH12U)
 
 <h1 align="center">Hi 👋, I'm Ankit Ranjan</h1>
