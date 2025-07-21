@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working as **DevOps Engineer**.
 
-- 🌱 I’m currently learning **Kubernetes and Hashicorp Vault**
+- 🌱 I’m currently learning **Kubernetes and Hashicorp Vault**.
 
 - 👯 I’m looking to collaborate on **Devops/MLops**.
 
