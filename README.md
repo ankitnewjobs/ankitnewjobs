@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs" alt="ankitnewjobs" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan6219?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
