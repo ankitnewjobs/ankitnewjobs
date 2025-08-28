@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
 
-<p align="left"> <a href="https://github.com/ankitnewjobs/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ankitnewjobs&theme=onedark)](https://github.com/ankitnewjobs/github-profile-trophy)" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankitnewjobs&theme=onedark)](https://github.com/ankitnewjobs/github-profile-trophy)" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan6219?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
 
