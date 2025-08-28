@@ -6,22 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitnewjobs&label=Profile%20views&color=0e75b6&style=flat" alt="ankitnewjobs" /> </p>
 
-
-
-<a href="https://github.com/ankitnewjobs/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-
-<a href="https://github.com/ankitnewjobs/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ankitnewjobs&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
-
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ankitnewjobs&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitnewjobs&layout=compact" />
-</div>
-
 <p align="left"> <a href="https://twitter.com/ankitranjan621" target="blank"><img src="https://img.shields.io/twitter/follow/ankitranjan6219?logo=twitter&style=for-the-badge" alt="aryanag61275349" /></a> </p>
 
 - 🔭 I’m currently working as **DevOps Engineer**.
